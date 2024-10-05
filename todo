@@ -1,0 +1,8 @@
+1) Implement check request after download, now is a pc command, should be internal to conc
+2) Implement retransmission of the wrong packet
+3) Shorten download to 64k - 2k for params and - 2k for board info, align sensor OK
+4) Change buttons on graphic to be more explicative OK
+
+
+5) Add concentrator personalization string
+6) Parametro di calibrazione da K 0.0 a 1.9 per ogni singolo sensore
